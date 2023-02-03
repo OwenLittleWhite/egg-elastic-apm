@@ -1,0 +1,32 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+build
+
+.config.js
+
+logs/
+run/
+coverage/
+config/config.*.js
+newrelic_*
+
+package-lock.json
+
+.vscode
+typings
+
+report.xml
+
+databases/config.json
+
+yarn.lock

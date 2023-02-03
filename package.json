@@ -1,0 +1,14 @@
+{
+  "name": "egg-elastic-apm",
+  "version": "1.0.0",
+  "description": "integrate apm into eggjs framework projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owen <253065903@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "elastic-apm-node": "^3.9.0"
+  }
+}
