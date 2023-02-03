@@ -3,12 +3,12 @@
 ## 安装
 
 ```
-npm install
+npm install egg-elastic-apm
 ```
 
 ## 配置
 
-要在项目的根目录下创建配置文件 `config/apmConfig.json`
+在项目的根目录下创建配置文件 `config/apmConfig.json`
 
 ```JSON
 {
