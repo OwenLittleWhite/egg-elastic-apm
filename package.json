@@ -1,6 +1,6 @@
 {
   "name": "egg-elastic-apm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "integrate apm into eggjs framework projects",
   "main": "index.js",
   "scripts": {
